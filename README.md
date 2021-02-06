@@ -9,4 +9,5 @@ I hope you enjoy! I had a lot of fun building this game in C++.
 
 To play the game, open all the files in a coding environment with a C++ compiler such as VSCode. Then, run them through the command line by typing:
 > g++ driver.cpp character.cpp equipment.cpp game.cpp map.cpp -o hungerGames
+
 > ./hungerGames
